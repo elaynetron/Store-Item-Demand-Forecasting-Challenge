@@ -6,5 +6,8 @@ Best result: 12.59275, 13.84123 (Top 3% on Leaderboard)
 
 ### Directory
 
-#### 12_4041_ML_NN
-Jupyter Notebook with best results, using Neural Network model
+#### P3_ML_Prophet_Ensemble
+Machine Learning models including Prophet and Ensemble
+
+#### P4_NN
+Neural Network model with best results
